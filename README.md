@@ -12,3 +12,8 @@ A tool which will use your hand gestures to make ER Diagram.
 <ol>
   <li>Intergrated Camera
 </ol>
+
+## Software Required
+<ol>
+   <li>Tesseract ()
+</ol>
